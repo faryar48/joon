@@ -40,7 +40,6 @@ group :development, :test do
   gem 'annotate', '2.7.1'
 end
 
-
 # PostgreSQL
 gem 'pg'
 
